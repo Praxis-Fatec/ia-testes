@@ -6,9 +6,9 @@
   "description": "Apoio da IA na derivacao de casos/cenarios de teste em nivel de unidade e sistema",
   "scripts": {
     "start": "node src/index.ts",
-    "test": "node --test testes/",
-    "test:unidade": "node --test testes/unidade/",
-    "test:sistema": "node --test testes/sistema/",
+    "test": "node --test \"testes/**/*.test.ts\"",
+    "test:unidade": "node --test \"testes/unidade/*.test.ts\"",
+    "test:sistema": "node --test \"testes/sistema/*.test.ts\"",
     "tipos": "tsc --noEmit"
   },
   "devDependencies": {
