@@ -174,8 +174,10 @@ loja, montar carrinho ou simular teclado.
 | `node:assert/strict` | asserções |
 | `node:readline` | leitura do teclado |
 
-O projeto tem **uma única dependência**, o próprio TypeScript, e apenas para
-checar tipos. Não há framework de teste instalado.
+O projeto tem **zero dependências de execução**. As duas de desenvolvimento —
+TypeScript e os tipos do próprio Node — servem só para a checagem de tipos e
+somam três pacotes em `node_modules`. Não há framework de teste instalado: o
+runner, as asserções e a leitura do teclado vêm do Node.
 
 ---
 
