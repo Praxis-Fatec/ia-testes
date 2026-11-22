@@ -109,8 +109,9 @@ que a IA ofereceu, alguns foram descartados e dois foram corrigidos.
 
 ### Aceitos sem mudança
 
-C01 a C14, C17, C18, C20 a C25. São casos de limite, de classe de
-equivalência e de erro que correspondem a regras escritas.
+C01 a C03, C05 a C14, C16 a C25 — vinte e três casos de limite, de classe de
+equivalência e de erro que correspondem a regras escritas. Os dois que faltam
+nesta lista, C04 e C15, estão logo abaixo.
 
 ### Corrigidos na revisão
 

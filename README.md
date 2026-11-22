@@ -66,13 +66,15 @@ RESUMO DA COMPRA
 Faltam R$ 0,20 para o desconto de 10%.
 ```
 
-Adicione mais um item e a mesma tela vira:
+Adicione o headset e a mesma tela vira:
 
 ```
-  Subtotal                             R$ 129,90
-  Desconto (10%)                       -R$ 12,99
+  1 x Headset                          R$ 129,90
 ------------------------------------------------
-  TOTAL                                R$ 116,91
+  Subtotal                             R$ 229,70
+  Desconto (10%)                       -R$ 22,97
+------------------------------------------------
+  TOTAL                                R$ 206,73
 
 Desconto de 10% aplicado: o subtotal atingiu R$ 100,00.
 ```
